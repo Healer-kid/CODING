@@ -58,8 +58,8 @@ int main() {
 	        cin>>a[i];
 	    }
 	    int k;
-	    cin>>k;
-	    priority_queue<int,vector<int>,greater<int>> pq;
+	    cin>>k;									//priority_queue<int>q;	-->DECREASING ORDER
+	    priority_queue<int,vector<int>,greater<int>> pq;				//priority_queue<int, vector<int>, greater<int> >q; 	-->INCREASING ORDER
 	    for(int i=0;i<n;i++){
 	        pq.push(a[i]);
 	        
