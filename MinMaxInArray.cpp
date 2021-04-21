@@ -48,7 +48,8 @@ return minmaxi;
 
 
 
-METHOD 2
+METHOD 2	//REFER THIS BLOG 
+https://afteracademy.com/blog/find-the-minimum-and-maximum-value
 TOURNAMENT METHOD(TWO HALF)
 	tournament method A method of finding a specific element in some set (e.g. largest of a set of numbers), so called because it involves pairing elements 
 	and comparing them to find which one goes through to the next stage, leaving just one element at the end that has not lost.
