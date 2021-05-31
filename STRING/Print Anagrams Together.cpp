@@ -4,7 +4,8 @@ a word, phrase, or name formed by rearranging the letters of another, such as sp
 Print Anagrams Together 
 
 Medium Accuracy: 59.05% Submissions: 10018 Points: 4
-Given an array of strings, return all groups of strings that are anagrams. The groups must be created in order of their appearance in the original array. Look at the sample case for clarification.
+Given an array of strings, return all groups of strings that are anagrams. The groups must be created in order of their appearance in the original array.
+Look at the sample case for clarification.
 
 
 Example 1:
